@@ -9,7 +9,7 @@
             <div class="footer-col">
                 <h4>✉️ Email</h4>
                 <p>Chúng tôi sẽ phản hồi sau 1-3 ngày làm việc</p>
-                <p>nguyengoc0315@gmail.com</p>
+                <p>victorystore@gmail.com</p>
             </div>
 
             <div class="footer-col subscribe">
@@ -21,7 +21,7 @@
         <div class="footer-middle container">
             <div class="footer-brand">
                 <h2 class="footer-logo">Victory Store<span>.</span></h2>
-                <p class="slogan">Lựa chọn mua đĩa nhạc tốt nhất</p>
+                <p class="slogan">Lựa chọn mua phụ kiện tốt nhất</p>
                 <div class="socials">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
