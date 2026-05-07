@@ -19,19 +19,12 @@
                             Câu chuyện của <br> chúng tôi
                         </h3>
                         <h2 class="story-highlight mt-5">
-                            Tốt cho con người, tốt cho hành tinh
+                            We have the best product
                         </h2>
                     </div>
                     <div class="col-md-4 story-text">
-                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-                            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-                            mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-                            veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-                            anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-                            veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                        <p>Victory Store là nền tảng công nghệ chuyên cung cấp các sản phẩm điện tử và giải pháp mua sắm hiện đại, mang đến trải nghiệm tiện lợi, nhanh chóng và đáng tin cậy cho khách hàng.</p>
+                        <p>Với định hướng đặt trải nghiệm khách hàng làm trung tâm, Victory Store không ngừng cải tiến chất lượng dịch vụ, cập nhật xu hướng công nghệ mới và mang đến quy trình mua sắm tiện lợi, nhanh chóng và đáng tin cậy. Chúng tôi mong muốn trở thành điểm đến công nghệ hàng đầu, nơi khách hàng có thể dễ dàng tìm thấy những sản phẩm phù hợp với nhu cầu học tập, làm việc và giải trí trong cuộc sống hiện đại.</p>
                     </div>
                 </div>
             </div>
@@ -101,7 +94,7 @@
                                 <li class="timeline-item completed">
                                     <div class="timeline-dot"></div>
                                     <div>
-                                        <h4 class="timeline-year">Thành lập vào năm 2018</h4>
+                                        <h4 class="timeline-year">Thành lập vào năm 2026</h4>
                                         <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit
                                             laboriosam, nisi ut aliquid ex ea commodi consequatur.</p>
                                     </div>
